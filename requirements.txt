@@ -1,0 +1,5 @@
+telebot
+requests
+httpx
+uuid
+fake_useragent
